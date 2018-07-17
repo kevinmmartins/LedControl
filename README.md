@@ -1,6 +1,8 @@
 # LedControl
 Led control with Node.js and Arduino
 
+[![Build Status](https://travis-ci.org/kevinmmartins/LedControl.svg?branch=master)](https://travis-ci.org/kevinmmartins/LedControl)
+
 ## Setup
  - Arduino
  - Node
