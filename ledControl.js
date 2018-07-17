@@ -1,7 +1,7 @@
-let five = require('johnny-five');
-let board = new five.Board();
+const robot = require('johnny-five');
+let board = new robot.Board();
  
 board.on('ready', function() {
-  let  led = new five.Led(13); // pin 13
-  led.blink(500); // 500ms interval
+  let  led = new robot.Led(13);
+  led.blink(500);
 });
