@@ -1,6 +1,7 @@
 # LedControl
 Led control with Node.js and Arduino
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/efc779f66e184592877d609b0ca4fe9b)](https://app.codacy.com/app/kevinmmartins/LedControl?utm_source=github.com&utm_medium=referral&utm_content=kevinmmartins/LedControl&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/kevinmmartins/LedControl.svg?branch=master)](https://travis-ci.org/kevinmmartins/LedControl)
 
 ## Setup
